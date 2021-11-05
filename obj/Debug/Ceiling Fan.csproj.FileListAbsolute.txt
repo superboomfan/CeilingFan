@@ -1,0 +1,10 @@
+C:\Users\Dan\source\repos\Ceiling Fan\bin\Debug\Ceiling Fan.exe.config
+C:\Users\Dan\source\repos\Ceiling Fan\bin\Debug\Ceiling Fan.exe
+C:\Users\Dan\source\repos\Ceiling Fan\bin\Debug\Ceiling Fan.pdb
+C:\Users\Dan\source\repos\Ceiling Fan\obj\Debug\Ceiling Fan.csproj.AssemblyReference.cache
+C:\Users\Dan\source\repos\Ceiling Fan\obj\Debug\Ceiling_Fan.Form1.resources
+C:\Users\Dan\source\repos\Ceiling Fan\obj\Debug\Ceiling_Fan.Properties.Resources.resources
+C:\Users\Dan\source\repos\Ceiling Fan\obj\Debug\Ceiling Fan.csproj.GenerateResource.cache
+C:\Users\Dan\source\repos\Ceiling Fan\obj\Debug\Ceiling Fan.csproj.CoreCompileInputs.cache
+C:\Users\Dan\source\repos\Ceiling Fan\obj\Debug\Ceiling Fan.exe
+C:\Users\Dan\source\repos\Ceiling Fan\obj\Debug\Ceiling Fan.pdb
